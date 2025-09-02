@@ -31,7 +31,7 @@ A real-time collaborative code editor with code execution and video call support
 
 ---
 
-### 🔹 [Lost-and-Found Management System](https://github.com/satyam1302/LostAndFoundProject)  
+### 🔹 [Lost-and-Found Management System](https://github.com/satyam1302/lost-found-system)  
 A system to manage lost and found items with identity verification and match detection.  
 - **Stack:** C++ and SQLite  
 - **Features:** Lost/Found item reporting, match detection, date-based cleanup, secure deletion with name verification  
@@ -39,7 +39,7 @@ A system to manage lost and found items with identity verification and match det
 
 ---
 
-### 🔹 [Task Offloading Simulation](https://github.com/satyam1302/TaskOffloadingSimulation)  
+### 🔹 [Task Offloading Simulation](https://github.com/satyam1302/Priority-task-offloading)  
 Simulation of **task offloading in autonomous vehicles** using heuristic algorithms.  
 - **Stack:** Python  
 - **Features:** Simulates offloading with varying car counts (50–250), evaluates latency & performance  
@@ -53,6 +53,17 @@ A **MERN stack web application** that helps students generate personalized learn
   - AI-powered personalized curriculum planning  
   - Subject-wise resource recommendations  
   - Interactive dashboard for managing study progress  
+
+---
+
+### 🔹 [Legal Text Summarizer](https://github.com/satyam1302/Legal-Text_Summarization)  
+An **AI-powered tool** that generates concise summaries of lengthy and complex legal documents using state-of-the-art NLP models.  
+- **Stack:** ReactJS, Flask, PyTorch, Transformers, Pandas, HuggingFace  
+- **Features:**  
+  - Fine-tuned **BART model** trained on domain-specific legal datasets  
+  - Summarizes complex legal texts into concise, easy-to-understand points  
+  - Full-stack web app with **ReactJS frontend** and **Flask backend**  
+  - Supports real-time document upload and summary generation  
 
 ---
 
